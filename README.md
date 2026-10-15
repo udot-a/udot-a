@@ -23,21 +23,12 @@
 
 ### Tech stack
 
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nodejs,redux,tailwind,mui,vite&theme=dark&perline=10">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nodejs,redux,tailwind,mui,vite&theme=light&perline=10" alt="TypeScript, JavaScript, React, Next.js, Vue, Node.js, Redux, Tailwind, MUI, Vite">
-  </picture>
-  <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=firebase,graphql,postgres,mongodb,jest,docker,aws,githubactions,figma,git&theme=dark&perline=10">
-    <img src="https://skillicons.dev/icons?i=firebase,graphql,postgres,mongodb,jest,docker,aws,githubactions,figma,git&theme=light&perline=10" alt="Firebase, GraphQL, PostgreSQL, MongoDB, Jest, Docker, AWS, GitHub Actions, Figma, Git">
-  </picture>
-</p>
+[![Tech stack](https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nodejs,redux,tailwind,mui,vite&perline=10)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=firebase,graphql,postgres,mongodb,jest,docker,aws,githubactions,figma,git&perline=10)](https://skillicons.dev)
 
-**Mobile:** React Native (New Architecture), Expo (Router, EAS Build/Submit, config plugins), Reanimated, FlashList, Maps / Mapbox, push notifications, deep links, native modules (Java)
-**Web:** React 19, Next.js (App Router, Server Actions), Vite, Tailwind / NativeWind, Radix UI / shadcn, MUI, Lit
-**State & data:** Redux Toolkit, RTK Query, TanStack Query, Redux-Saga, Zustand, React Hook Form, Zod
+- **Mobile:** React Native (New Architecture), Expo (Router, EAS Build/Submit, config plugins), Reanimated, FlashList, Maps / Mapbox, push notifications, deep links, native modules (Java)
+- **Web:** React 19, Next.js (App Router, Server Actions), Vite, Tailwind / NativeWind, Radix UI / shadcn, MUI, Lit
+- **State & data:** Redux Toolkit, RTK Query, TanStack Query, Redux-Saga, Zustand, React Hook Form, Zod
 
 ### Featured projects
 
